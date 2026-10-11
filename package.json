@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.117.3",
+    "install": "^0.13.0",
     "next": "16.4.0",
+    "npm": "^12.2.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
